@@ -1,7 +1,7 @@
 # Covid-19Thailand
 
 I trained models to predict future Covid-19 cases in Thailand, using machine learning and deep neural networks -- both univariate and multivariate. For the univariate, the predictor was either confirmed cases or confirmed deaths.
-I set inputs to be the previous 14-days data. For the multivariate, besides the Covid-19 cases, I used Google and Apple mobilities. 
+I set inputs to be the previous 14-days data. For the multivariate, besides the Covid-19 cases, I used Google and Apple mobilities as predicting features. 
 
 The main files of the predictions are ML univariate cases + deaths, ML multivariate cases + deaths, DNN univariate cases + deaths, DNN multivariate cases, DNN multivariate deaths
 
